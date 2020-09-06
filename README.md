@@ -1,1 +1,1 @@
-### A relase .apk for SideQuest
+### A release .apk for SideQuest.
